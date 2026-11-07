@@ -1,0 +1,9 @@
+{
+  "name": "wlach-skill-open-editor",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "launch-editor": "2.14.2",
+    "shell-quote": "1.12.0"
+  }
+}
